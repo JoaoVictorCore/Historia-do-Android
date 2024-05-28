@@ -114,6 +114,10 @@ main a {
     padding: 2px;
 }
 
+main img {
+    width: 100%;
+}
+
 
 p {
     display: block;
@@ -156,6 +160,14 @@ article h2 {
     padding-bottom: 56.25%;
     padding-top: 23px;
     margin: 0px;
+}
+
+div .video {
+    background-color: #1a5a37;
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 58%;
+    position: relative;
 }
 
 .boxVideo iframe {
